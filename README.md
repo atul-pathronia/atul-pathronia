@@ -3,9 +3,9 @@
 <h3 align="center">A self taught non CS front end developer who loves to code.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **HTML,CSS, JAVASCRIPT, BOOTSTRAP AND REACT**
+- 💬 Ask me about **HTML,CSS, JAVASCRIPT, BOOTSTRAP, MATERIAL UI, SASS, AND REACT**
 
-- 📫 How to reach me **patul_25@rocktmail.com**
+- 📫 How to reach me **atulpathronia@gmail.com**
 
 - ⚡ Fun fact **I commit every now and then.**
 
