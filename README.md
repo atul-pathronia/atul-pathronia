@@ -1,9 +1,9 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm Atul Pathronia</h1>
-<h3 align="center">A self taught non CS front end developer who loves to code.</h3>
+<h3 align="center">Former financial analyst with a passion for software development. Experienced in SQL queries and now proficient in MongoDB, Express, React, and Node.js. Excited to build scalable, user-friendly, and efficient applications that solve complex business problems. Driven by the challenge of crafting elegant solutions to meet the evolving needs of modern businesses.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **HTML,CSS, JAVASCRIPT, BOOTSTRAP, MATERIAL UI, SASS, AND REACT**
+- 💬 Ask me about **MONGODB, EXPRESS, REACT and NODEJS | MATERIAL UI, BOOTSTRAP, TAILWIND CSS**
 
 - 📫 How to reach me **atulpathronia@gmail.com**
 
