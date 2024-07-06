@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul Pathronia</h1>
-<h3 align="center">Runs SQL query on bank's financial data at work</h3>
+<h3 align="center">Runs SQL query on financial data at work</h3>
 
 - 🌱 I’m currently learning **Machine Learning & Power BI**
 
